@@ -1,0 +1,1 @@
+# A-modular-electrothermal-photovoltaic-array-model-for-BIPV-under-partial-shading-conditions
